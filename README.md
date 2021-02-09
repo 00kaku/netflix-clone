@@ -16,4 +16,8 @@ This a react single page app that copies the front end behaaviour of the netflix
 ![Trailer](https://user-images.githubusercontent.com/22026768/107339000-2f152480-6ae2-11eb-9710-3da1507bb8f1.png)
 
 
-### Hosted Link:https://netflix-react-clone-864f1.web.app/
+#### Steps to run
+
+1. Download the code from the repository and replace "your api key" for tmdb api in requests.js
+2. Install the required dependency using npm.
+3. Run with npm run start.
