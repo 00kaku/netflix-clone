@@ -9,5 +9,8 @@ This a react single page app that copies the front end behaaviour of the netflix
 
 #### Screenshots
 
+![MainScreen](https://user-images.githubusercontent.com/22026768/107338786-f5441e00-6ae1-11eb-965a-2437d9f4d827.png)
+
+
 
 ### Hosted Link:https://netflix-react-clone-864f1.web.app/
