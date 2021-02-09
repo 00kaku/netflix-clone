@@ -6,6 +6,7 @@ This a react single page app that copies the front end behaaviour of the netflix
 ###### React-youtube npm package is used to fetch trailers from youtube.
 ###### movie-trailer npm package is used to fetch movie trailer url from youtube based on the name of the movie/show.
 ###### Google Firebase is used for hosting the website.
+###### The movie database api is used to fetch the movie/shows according to the categories
 
 #### Screenshots
 
